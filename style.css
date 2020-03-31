@@ -1,0 +1,205 @@
+.header
+{
+	margin: 25px;
+	padding: 5px;
+	display: flex;
+	align-self: auto;
+	justify-content: space-between;
+	justify-content: flex-end;
+	a {
+		padding: 16px;
+
+	}
+
+}
+
+		/en tête de page/
+
+.Gmail:
+{
+	float: right;
+	padding: 5px 10px;
+	background: white;
+	color: black;
+}
+
+.Gmail: hover
+{
+	color: grey;
+}
+
+.image: 
+{
+	float: right;
+	padding: 5px 10px;
+	background: white;
+	color: black;
+}
+
+.Applications:hover
+{
+	float: right;
+	color: grey;
+}
+
+.Connexion:
+{
+	float: right;
+	padding: 5px 10px;
+	background: #4285f4;
+	color: white;
+}
+
+		/logo Google au centre/
+
+.google
+{ 
+	height: 200px;
+	font-size: 80px;
+	opacity: 0.9;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.blue
+{
+	color: #4285f4;
+}
+
+.red
+{
+	color: #ea4335;
+}
+
+.yellow
+{
+	color: #fbbc05;
+}
+
+.green
+{
+	color: #34a853;
+}
+
+.google 
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+		/barre de recherche/
+
+.recherche_p
+{
+	margin-left: 430px;
+	border-radius: 24px;
+	width: 500px;
+	height: 40px;
+	padding: 10px 10px 10px;
+	text-align: center;
+}
+
+.recherche_p
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.boutton1
+{
+	opacity: 0.6;
+	padding: 20px 20px 20px;
+}
+
+.boutton2
+{
+	opacity: 0.6;
+	padding: 10px 10px 10px;
+}
+
+		/pied de page/
+
+.footer
+{
+	margin: 25px;
+	padding: 5px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+	flex-direction: row;
+	
+}
+
+.left
+{
+	margin: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-end;
+}
+
+.publicité
+{
+	padding: 5px 10px;
+	background: white;
+	color: silver;
+}
+
+.enter
+{
+	padding: 5px 10px;
+	background: white;
+	color: black;
+}
+
+.propos
+{
+	padding: 5px 10px;
+	background: white;
+	color: black;
+}
+
+.cmt 
+{
+	padding: 5px 10px;
+	background: white;
+	color: black;
+}
+
+.right
+{
+	margin: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-content: flex-end;
+}
+
+.conf
+{
+	padding: 5px 10px;
+	background: white;
+	color: black;
+}
+
+.cond
+{
+	padding: 5px 10px;
+	background: white;
+	color: black;
+}
+
+.para
+{
+	padding: 5px 10px;
+	background: white;
+	color: black;
+}
